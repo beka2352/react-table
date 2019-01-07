@@ -1,0 +1,10 @@
+.cell{
+  width: 200px;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.cell_main{
+  display: flex;
+  align-items: center;
+}

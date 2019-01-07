@@ -1,0 +1,8 @@
+.row{
+  box-sizing: border-box;
+  display: flex;
+}
+
+.row_main{
+  font-weight: 700;
+}

@@ -1,0 +1,17 @@
+.inpt {
+	width: 100%;
+	border: none;
+	outline: none;
+	padding: 12px 12px;
+	position: relative;
+	z-index: 2;
+	font-size: 14px;
+	border: 1px solid #ddd;
+	color: #343434;
+	resize: none;
+	box-sizing: border-box;
+}
+
+.inpt:focus::placeholder {
+	opacity: 0;
+}
